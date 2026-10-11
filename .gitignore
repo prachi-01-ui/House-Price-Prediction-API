@@ -1,0 +1,15 @@
+```gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.joblib
+.vscode/
+```
+
+*.joblib
+
+*.joblib
+
+*.joblib
